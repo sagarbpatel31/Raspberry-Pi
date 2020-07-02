@@ -1,11 +1,11 @@
 from urllib.request import urlopen
 import re
 import smtplib
-fromaddr = "sagarp3199@gmail.com"
-toaddr="sagarp3199@gmail.com"
+fromaddr = "mail id"
+toaddr="mail id"
 subject= "Play Raspberry PI"
-username = "sagarp3199"
-password = "399ansimla2603"
+username = "your username"
+password = "your password"
 
 url = "http://checkip.dyndns.org"
 print("IP address service is ",url)
